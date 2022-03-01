@@ -13,7 +13,7 @@ SOURCE AND AUTHOR https://github.com/NoImN0t/TG-AutoReport/
 5. Enter your phone number (+370 xxx xxxxx)
 <img align="left" src="https://user-images.githubusercontent.com/20355306/156067187-c1b02ce7-3eb3-4a01-a6d7-02cf802df61e.png"/>
 <br clear="left"/>
-6. Confirm it press “Y” and Enter. You will receive confirmation code to your phone 
+6. Confirm it press “Y” and Enter. You will receive **confirmation code to your phone** 
 <br clear="left"/>
 7. Enter confirmation code to console
 <img align="left" src="https://user-images.githubusercontent.com/20355306/156067187-c1b02ce7-3eb3-4a01-a6d7-02cf802df61e.png"/> 
