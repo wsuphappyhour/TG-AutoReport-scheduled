@@ -33,4 +33,6 @@ It will create task scheduler task to run every 4 hours (taskschd.msc)
 live ban list: https://docs.google.com/spreadsheets/d/1ovusoIost6DZt5dwGWWMPRndtLWe-7zoAsbdeo9aK5A/edit#gid=0
 
 extra: to change or get new .env go to https://my.telegram.org/auth
+
+src compiled with auto-py-to-exe
 </p>
