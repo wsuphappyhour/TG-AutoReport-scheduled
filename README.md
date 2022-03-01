@@ -31,7 +31,7 @@ It will create task scheduler task to run every 4 hours (taskschd.msc)
 1. Launch TG-autoreport-scheduled.exe
 
 ## IN ACTION
-
+<img align="left" src="https://user-images.githubusercontent.com/20355306/156218573-84ca45b9-00b3-4a34-b40e-c05fc14e7b27.PNG"/> 
 
 
 live ban list: https://docs.google.com/spreadsheets/d/1ovusoIost6DZt5dwGWWMPRndtLWe-7zoAsbdeo9aK5A/edit#gid=0
