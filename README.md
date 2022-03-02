@@ -32,15 +32,15 @@ It will create task scheduler task to run every 4 hours (taskschd.msc)
 
 # TROUBLESHOOTING
 
-### If you are getting this error:
+ If you are getting this error:
  Telegram says: [420 FLOOD_WAIT_X] - A wait of 22719 seconds is required (caused by "contacts.ResolveUsername")
-### Please go to: https://my.telegram.org/
+ Please go to: https://my.telegram.org/
 <img align="left" src="https://user-images.githubusercontent.com/20355306/156343544-5b149ff4-5087-4d16-9427-8687b0cfb329.png"/>
 <br clear="left"/>
-### Create new APP (or use existing)
+ Create new APP (or use existing)
 <img align="left" src="https://user-images.githubusercontent.com/20355306/156343997-80a8ff4a-a4ab-429f-8c37-d88aa259d5a1.png"/>
 <br clear="left"/>
-### and add these values to .env file
+ and add these values to .env file
 <img align="left" src="https://user-images.githubusercontent.com/20355306/156344351-eb5aebef-4545-4936-8531-f8e7d6154320.png"/>
 <br clear="left"/>
 
