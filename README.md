@@ -5,6 +5,8 @@ Follow these steps to auto-report them in Telegram
 
 SOURCE AND AUTHOR https://github.com/NoImN0t/TG-AutoReport/
 
+## Due to high demand see TROUBLESHOOTING section (error: [420 FLOOD_WAIT_X])
+
 ## FIRST TIME SETUP
 1. Get telegram app on your phone (Google Play store)
 2. Login to it (if first time use: follow in app instructions, allow permissions, validate phone number) 	 	 	 
